@@ -1,8 +1,8 @@
 # Walmart-Sales-Analysis
 📁 Project Structure
 File	Description
-project.ipynb	Python notebook used to clean data, perform exploratory analysis, and connect to MySQL
-walmart_sql_1.sql	SQL file containing multiple analytical queries to derive business insights
+project.ipynb	Python notebook used to clean data, perform exploratory analysis, and connect to MySQL.
+walmart_sql_1.sql	SQL file containing multiple analytical queries to derive business insights.
 
 🔧 Tools & Technologies
 Python (Pandas, NumPy, MySQL Connector)
